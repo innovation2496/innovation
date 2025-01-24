@@ -10,6 +10,8 @@ DOMAIN-KEYWORD,mypikpak
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,grass
 DOMAIN-KEYWORD,debian
+DOMAIN-KEYWORD,distribute
+DOMAIN-KEYWORD,oasis
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,t66y.com
@@ -22,3 +24,4 @@ DOMAIN-SUFFIX,pikpak.com
 DOMAIN-SUFFIX,mirror.xyz
 DOMAIN-SUFFIX,grass.io
 DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,distribute.ai
