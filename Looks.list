@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,grass
 DOMAIN-KEYWORD,debian
 DOMAIN-KEYWORD,distribute
 DOMAIN-KEYWORD,oasis
+DOMAIN-KEYWORD,ubuntu
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,t66y.com
