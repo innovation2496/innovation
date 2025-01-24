@@ -8,8 +8,7 @@ DOMAIN-KEYWORD,south-plus
 DOMAIN-KEYWORD,pikpak
 DOMAIN-KEYWORD,mypikpak
 DOMAIN-KEYWORD,mirror
-
-
+DOMAIN-KEYWORD,grass
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,t66y.com
@@ -20,3 +19,4 @@ DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,pikpak.com
 DOMAIN-SUFFIX,mirror.xyz
+DOMAIN-SUFFIX,grass.io
