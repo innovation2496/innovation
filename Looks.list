@@ -14,6 +14,8 @@ DOMAIN-KEYWORD,distribute
 DOMAIN-KEYWORD,oasis
 DOMAIN-KEYWORD,ubuntu
 DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,python
+DOMAIN-KEYWORD,okx
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,t66y.com
@@ -28,3 +30,5 @@ DOMAIN-SUFFIX,grass.io
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,distribute.ai
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,okx.com
