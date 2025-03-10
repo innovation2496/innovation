@@ -13,6 +13,7 @@ DOMAIN-KEYWORD,debian
 DOMAIN-KEYWORD,distribute
 DOMAIN-KEYWORD,oasis
 DOMAIN-KEYWORD,ubuntu
+DOMAIN-KEYWORD,binance
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,t66y.com
@@ -26,3 +27,4 @@ DOMAIN-SUFFIX,mirror.xyz
 DOMAIN-SUFFIX,grass.io
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,distribute.ai
+DOMAIN-SUFFIX,binance.com
